@@ -2,6 +2,8 @@
 
 Aplicativo mobile de dicionário de inglês desenvolvido com React Native e Expo para o desafio técnico da Coodesh.
 
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/mmjck/truckpag-mobile-challenge/releases/latest)
+
 ## Screenshots
 
 <p align="center">
